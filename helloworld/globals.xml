@@ -1,0 +1,30 @@
+<globals>
+	<api>
+		<!-- Add <enumdefs> here -->
+	</api>
+
+	<consts>
+		<!-- Add <px>, <int>, <color> etc here -->
+	</consts>
+
+	<styles>
+		<!-- Add <style> tags here -->
+	</styles>
+
+	<subjects>
+		<!-- Add <int>, <string>, or <float> subjects here -->
+		<int name="toggle_theme" min_value="0" max_value="1" value="1" />
+	</subjects>
+
+	<images>
+		<data color_format="auto" name="carewell" src_path="images/carewell.png" />
+	</images>
+
+	<fonts>
+		<!-- Add <bin> , <tiny_ttf>, <freetype> tags here -->
+		<tiny_ttf as_file="false" name="poppins" src_path="fonts/poppins.ttf" size="12" />
+		<tiny_ttf as_file="false" name="poppins14" src_path="fonts/poppins.ttf" size="14" />
+
+		<!-- <freetype as_file="true" name="global_ttf_font" src_path="path/to/your_font.ttf" size="32"/> -->
+	</fonts>
+</globals>

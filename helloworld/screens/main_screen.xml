@@ -1,0 +1,361 @@
+<screen>
+	<styles>
+		<style name="cell" border_side="full" />
+		<style name="style_light" bg_color="0xe6e5e5" />
+		<style name="style_dark" bg_color="0x000000" />
+		<style
+			name="settings"
+			figma_node_id="34:650"
+			bg_color="0xeac831"
+			border_width="1"
+			width="160"
+			height="100"
+			radius="8"
+		/>
+		<style
+			name="calibration"
+			figma_node_id="34:576"
+			bg_color="0xb9c087"
+			border_width="1"
+			width="160"
+			height="100"
+			radius="8"
+		/>
+		<style name="s_main_frm" figma_node_id="34:690" bg_color="0xffffff" width="660" height="340" />
+		<style name="s_header_frm" figma_node_id="34:692" bg_color="0x2d2d2d" width="660" height="46" />
+		<style
+			name="s_header_right_frm"
+			figma_node_id="2027:30"
+			bg_color="0x188733"
+			border_color="0x2e7d32"
+			border_opa="255"
+			border_width="1"
+			width="content"
+			height="content"
+			radius="4"
+			shadow_width="12"
+			shadow_color="0x2c582e"
+			shadow_opa="255"
+			shadow_offset_x="0"
+			shadow_offset_y="2"
+			pad_hor="10"
+			pad_ver="6"
+			pad_column="10"
+			pad_row="10"
+		/>
+
+		<style name="s_header_left_frm" figma_node_id="2029:24" width="160" height="100" />
+		<style name="s_header_right_lbl" figma_node_id="34:695" text_color="0xffffff" />
+		<style name="s_header_left_lbl" figma_node_id="34:693" text_color="0x2b262c" />
+
+		<style
+			name="s_calib_frm"
+			figma_node_id="34:700"
+			bg_color="0xeef0ff"
+			border_width="1"
+			width="160"
+			height="100"
+			radius="8"
+		/>
+
+		<style name="s_calib_ico" figma_node_id="34:703" width="16" height="18" />
+		<style name="s_calib_ico_hands" figma_node_id="34:704" bg_color="0x0055c1" width="5" height="5" />
+		<style name="s_calib_ico_circle" figma_node_id="34:705" bg_color="0x0055c1" width="16" height="18" />
+
+		<style name="s_calib_button_frm" figma_node_id="34:756" width="79" height="content" pad_hor="0" pad_ver="0" />
+		<style name="s_calib_button_lbl1" figma_node_id="34:706" text_color="0x252226" />
+		<style name="s_calib_button_lbl2" figma_node_id="34:755" text_color="0x5c5c5c" />
+
+		<style
+			name="s_qc_frm"
+			figma_node_id="34:707"
+			bg_color="0xfef0cb"
+			border_width="1"
+			width="160"
+			height="100"
+			radius="8"
+		/>
+
+		<style
+			name="s_qc_ico"
+			figma_node_id="34:745"
+			border_color="0x685703"
+			border_opa="255"
+			border_width="1"
+			width="16"
+			height="16"
+		/>
+		<style name="s_qc_button_frm" figma_node_id="34:764" width="content" height="36" pad_hor="0" pad_ver="0" />
+		<style name="s_qc_button_lbl1" figma_node_id="34:765" text_color="0x252226" />
+		<style name="s_qc_button_lbl2" figma_node_id="34:766" text_color="0x5c5c5c" />
+
+		<style
+			name="s_test_frm"
+			figma_node_id="34:712"
+			bg_color="0xffeee7"
+			border_width="1"
+			width="160"
+			height="100"
+			radius="8"
+		/>
+
+		<style name="s_test_ico" figma_node_id="34:753" bg_color="0xa33105" width="16" height="16" />
+		<style name="s_test_button_frm" figma_node_id="34:760" width="79" height="content" pad_hor="0" pad_ver="0" />
+		<style name="s_test_button_lbl1" figma_node_id="34:761" text_color="0x252226" />
+		<style name="s_test_button_lbl2" figma_node_id="34:762" text_color="0x5c5c5c" />
+
+		<style
+			name="s_svc_frm"
+			figma_node_id="34:719"
+			bg_color="0xfbf0fe"
+			border_width="1"
+			width="160"
+			height="100"
+			radius="8"
+		/>
+
+		<style
+			name="s_svc_ico"
+			figma_node_id="34:722"
+			border_color="0x995ea9"
+			border_opa="255"
+			border_width="1"
+			width="16"
+			height="16"
+		/>
+		<style name="s_svc_button_frm" figma_node_id="34:769" width="79" height="content" pad_hor="0" pad_ver="0" />
+		<style name="s_svc_button_lbl1" figma_node_id="34:770" text_color="0x252226" />
+		<style name="s_svc_button_lbl2" figma_node_id="34:771" text_color="0x5c5c5c" />
+
+		<style
+			name="s_stt_frm"
+			figma_node_id="34:724"
+			bg_color="0xeaffe7"
+			border_width="1"
+			width="160"
+			height="100"
+			radius="8"
+		/>
+
+		<style name="s_stt_ico" figma_node_id="34:726" width="16" height="16" />
+		<style name="s_stt_button_frm" figma_node_id="34:774" width="79" height="36" pad_hor="0" pad_ver="0" />
+		<style name="s_stt_button_lbl1" figma_node_id="34:775" text_color="0x252226" />
+		<style name="s_stt_button_lbl2" figma_node_id="34:776" text_color="0x5c5c5c" />
+
+		<style
+			name="s_set_frm"
+			figma_node_id="34:730"
+			bg_color="0xe8e7ff"
+			border_width="1"
+			width="160"
+			height="100"
+			radius="8"
+		/>
+
+		<style
+			name="s_set_ico"
+			figma_node_id="34:733"
+			border_color="0x736ee5"
+			border_opa="255"
+			border_width="1"
+			width="16"
+			height="16"
+		/>
+		<style name="s_set_button_frm" figma_node_id="34:780" width="79" height="36" pad_hor="0" pad_ver="0" />
+		<style name="s_set_button_lbl1" figma_node_id="34:781" text_color="0x252226" />
+		<style name="s_set_button_lbl2" figma_node_id="34:782" text_color="0x5c5c5c" />
+
+		<style
+			name="s_footer_frm"
+			figma_node_id="90:308"
+			width="628"
+			height="content"
+			pad_hor="0"
+			pad_ver="0"
+			pad_column="340"
+			pad_row="340"
+		/>
+		<style
+			name="s_footer_left_frm"
+			figma_node_id="90:304"
+			width="content"
+			height="content"
+			pad_hor="0"
+			pad_ver="0"
+			pad_column="4"
+			pad_row="4"
+		/>
+		<style name="s_footer_left_logo" figma_node_id="90:305" width="60" height="18" />
+		<style name="s_footer_left_lbl" figma_node_id="90:306" text_color="0x767676" />
+
+		<style
+			name="s_footer_right_frm"
+			figma_node_id="34:696"
+			width="content"
+			height="content"
+			pad_hor="0"
+			pad_ver="0"
+			pad_column="4"
+			pad_row="4"
+		/>
+		<style name="s_footer_right_logo" figma_node_id="34:697" width="16" height="16" />
+		<style name="s_footer_right_lbl" figma_node_id="34:698" text_color="0x7d7d7d" />
+	</styles>
+
+	<view width="100%" height="100%">
+		<style name="s_main_frm" />
+
+		<lv_canvas name="header_frm" width="481" height="46">
+			<style name="s_header_frm" />
+
+			<lv_canvas name="header_left_frm" width="201" height="29" x="14" y="11">
+				<style name="s_header_left_frm" />
+				<lv_label name="header_left_lbl" text="Ashutosh Diagnostic labs" x="3" y="6">
+					<style name="s_header_left_lbl" />
+				</lv_label>
+			</lv_canvas>
+			<lv_switch
+				name="theme"
+				style_bg_color="0xe4e0e0"
+				style_line_color="0x000000"
+				style_bg_grad_color="0x000000"
+				width="40"
+				height="23"
+				clickable="true"
+				checked="false"
+				bind_checked="toggle_theme"
+				x="221"
+				y="14"
+			>
+				<event_cb callback="cb_theme_changed" trigger="value_changed" />
+				<style name="style_light" />
+				<!-- <bind_style name="style_light" subject="toggle_theme" ref_value="1" />
+				<bind_style name="style_dark" subject="toggle_theme" ref_value="0" /> -->
+			</lv_switch>
+			<lv_button name="header_right_frm" x="291" y="7" width="170" height="35">
+				<style name="s_header_right_frm" />
+				<lv_label name="header_right_lbl" text="Ready for Sampling" x="3" y="3">
+					<style name="s_header_right_lbl" />
+				</lv_label>
+			</lv_button>
+		</lv_canvas>
+
+		<lv_button name="calib_frm" x="20" y="55" width="134" height="82">
+			<style name="s_calib_frm" />
+			<lv_canvas>
+				<style name="s_calib_ico" />
+				<lv_image>
+					<style name="s_calib_ico_circle" />
+				</lv_image>
+				<lv_image>
+					<style name="s_calib_ico_hands" />
+				</lv_image>
+			</lv_canvas>
+			<lv_label name="calib_button_lbl1" text="Calibration" x="3" y="21">
+				<style name="s_calib_button_lbl1" />
+			</lv_label>
+			<lv_label name="calib_button_lbl2" text="1 &amp; 2 point call" x="1" y="41" width="102" height="17">
+				<style name="s_calib_button_lbl2" />
+			</lv_label>
+		</lv_button>
+
+		<lv_button name="qc_frm" x="176" y="55" width="134" height="82">
+			<style name="s_qc_frm" />
+			<lv_canvas style_border_width="0">
+				<style name="s_qc_ico" />
+				<lv_image style_border_width="0">
+					<style name="s_qc_ico" />
+				</lv_image>
+			</lv_canvas>
+			<lv_label name="qc_button_lbl1" text="Quality Control" x="-5" y="21" width="110" height="16">
+				<style name="s_qc_button_lbl1" />
+			</lv_label>
+			<lv_label name="qc_button_lbl2" text="Meta data text" x="-2" y="42" width="104" height="15">
+				<style name="s_qc_button_lbl2" />
+			</lv_label>
+		</lv_button>
+
+		<lv_button name="test_frm" x="330" y="55" width="134" height="82">
+			<style name="s_test_frm" />
+			<lv_canvas>
+				<style name="s_test_ico" />
+				<lv_image>
+					<style name="s_test_ico" />
+				</lv_image>
+			</lv_canvas>
+			<lv_label name="test_button_lbl1" text="Test" x="-4" y="22" width="38" height="18">
+				<style name="s_test_button_lbl1" />
+			</lv_label>
+			<lv_label name="test_button_lbl2" text="Blood &amp; urine" x="-3" y="40" width="112" height="15">
+				<style name="s_test_button_lbl2" />
+			</lv_label>
+		</lv_button>
+
+		<lv_button name="svc_frm" x="20" y="155" width="134" height="82">
+			<style name="s_svc_frm" />
+			<lv_canvas style_border_width="0">
+				<style name="s_svc_ico" />
+				<lv_image style_border_width="0">
+					<style name="s_svc_ico" />
+				</lv_image>
+			</lv_canvas>
+			<lv_label name="svc_button_lbl1" text="Services" x="-4" y="29" width="110" height="16">
+				<style name="s_svc_button_lbl1" />
+			</lv_label>
+			<lv_label name="svc_button_lbl2" text="Meta data text" x="-7" y="49" width="104" height="15">
+				<style name="s_svc_button_lbl2" />
+			</lv_label>
+		</lv_button>
+
+		<lv_button name="stt_frm" x="176" y="155" width="134" height="82">
+			<style name="s_stt_frm" />
+			<lv_canvas style_border_width="0">
+				<style name="s_stt_ico" />
+				<lv_image style_border_width="0">
+					<style name="s_stt_ico" />
+				</lv_image>
+			</lv_canvas>
+			<lv_label name="stt_button_lbl1" text="Status" x="-5" y="29" width="110" height="16">
+				<style name="s_stt_button_lbl1" />
+			</lv_label>
+			<lv_label name="stt_button_lbl2" text="Meta data text" x="-5" y="48" width="104" height="15">
+				<style name="s_stt_button_lbl2" />
+			</lv_label>
+		</lv_button>
+
+		<lv_button name="set_frm" x="330" y="155" width="134" height="82">
+			<style name="s_set_frm" />
+			<lv_canvas style_border_width="0">
+				<style name="s_set_ico" />
+				<lv_image style_border_width="0">
+					<style name="s_set_ico" />
+				</lv_image>
+			</lv_canvas>
+			<lv_label name="set_button_lbl1" text="Settings" x="-5" y="26" width="110" height="16">
+				<style name="s_set_button_lbl1" />
+			</lv_label>
+			<lv_label name="set_button_lbl2" text="Meta data text" x="-5" y="45" width="104" height="15">
+				<style name="s_set_button_lbl2" />
+			</lv_label>
+		</lv_button>
+
+		<lv_canvas name="footer_frm" width="481" height="46" x="1" y="224">
+			<style name="s_footer_frm" />
+
+			<lv_canvas name="footer_left_frm" width="255" height="36" x="14" y="11">
+				<style name="s_footer_left_frm" />
+				<lv_image src="carewell" align="center" x="-85" y="0" />
+				<lv_label name="footer_left_lbl" text="Electrolyte Analyser" x="92" y="10" width="189" height="17">
+					<style name="s_footer_left_lbl" />
+				</lv_label>
+			</lv_canvas>
+
+			<lv_label name="footer_right_frm" x="291" y="7" width="170" height="35" text=" ">
+				<style name="s_footer_right_frm" />
+				<lv_label name="footer_right_lbl" text="19 FEB 11:40 AM" x="59" y="12">
+					<style name="s_footer_right_lbl" />
+				</lv_label>
+			</lv_label>
+		</lv_canvas>
+	</view>
+</screen>
