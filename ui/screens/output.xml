@@ -1,0 +1,1385 @@
+<screen>
+<styles>
+    <style
+        name="s_Setting_data"
+        figma_node_id="1:489"
+        
+    />
+    <style
+        name="s_Frame_171"
+        figma_node_id="1:490"
+        
+    />
+    <style
+        name="s_Frame_153"
+        figma_node_id="1:491"
+        
+    />
+    <style
+        name="s_Sensors"
+        figma_node_id="1:492"
+        text_font="poppins"
+    />
+    <style
+        name="s_Frame_135"
+        figma_node_id="1:493"
+        
+    />
+    <style
+        name="s_Frame_109"
+        figma_node_id="1:494"
+        
+    />
+    <style
+        name="s_Frame_91"
+        figma_node_id="1:495"
+        
+    />
+    <style
+        name="s_Name"
+        figma_node_id="1:496"
+        text_font="poppins"
+    />
+    <style
+        name="s_Frame_94"
+        figma_node_id="1:497"
+        
+    />
+    <style
+        name="s_Liquid"
+        figma_node_id="1:498"
+        text_font="poppins"
+    />
+    <style
+        name="s_Frame_97"
+        figma_node_id="1:499"
+        
+    />
+    <style
+        name="s_Probe"
+        figma_node_id="1:500"
+        text_font="poppins"
+    />
+    <style
+        name="s_Frame_110"
+        figma_node_id="1:501"
+        
+    />
+    <style
+        name="s_Frame_93"
+        figma_node_id="1:502"
+        
+    />
+    <style
+        name="s_Results"
+        figma_node_id="1:503"
+        text_font="poppins"
+    />
+    <style
+        name="s_Frame_95"
+        figma_node_id="1:504"
+        
+    />
+    <style
+        name="s_1528_mV"
+        figma_node_id="1:505"
+        text_font="poppins"
+    />
+    <style
+        name="s_Frame_98"
+        figma_node_id="1:506"
+        
+    />
+    <style
+        name="s_0"
+        figma_node_id="1:507"
+        text_font="poppins"
+    />
+    <style
+        name="s_Frame_168"
+        figma_node_id="1:508"
+        
+    />
+    <style
+        name="s_SMPL"
+        figma_node_id="1:509"
+        text_font="poppins"
+    />
+    <style
+        name="s_Frame_135_1"
+        figma_node_id="1:510"
+        
+    />
+    <style
+        name="s_Frame_109_1"
+        figma_node_id="1:511"
+        
+    />
+    <style
+        name="s_Frame_91_1"
+        figma_node_id="1:512"
+        
+    />
+    <style
+        name="s_Parameter"
+        figma_node_id="1:513"
+        text_font="poppins"
+    />
+    <style
+        name="s_Frame_94_1"
+        figma_node_id="1:514"
+        
+    />
+    <style
+        name="s_K"
+        figma_node_id="1:515"
+        text_font="poppins"
+    />
+    <style
+        name="s_Frame_98_1"
+        figma_node_id="1:516"
+        
+    />
+    <style
+        name="s_Na"
+        figma_node_id="1:517"
+        text_font="poppins"
+    />
+    <style
+        name="s_Frame_97_1"
+        figma_node_id="1:518"
+        
+    />
+    <style
+        name="s_Ca"
+        figma_node_id="1:519"
+        text_font="poppins"
+    />
+    <style
+        name="s_Frame_110_1"
+        figma_node_id="1:520"
+        
+    />
+    <style
+        name="s_Frame_93_1"
+        figma_node_id="1:521"
+        
+    />
+    <style
+        name="s_Results_1"
+        figma_node_id="1:522"
+        text_font="poppins"
+    />
+    <style
+        name="s_Frame_95_1"
+        figma_node_id="1:523"
+        
+    />
+    <style
+        name="s_0_mV"
+        figma_node_id="1:524"
+        text_font="poppins"
+    />
+    <style
+        name="s_Frame_99"
+        figma_node_id="1:525"
+        
+    />
+    <style
+        name="s_0_mV_1"
+        figma_node_id="1:526"
+        text_font="poppins"
+    />
+    <style
+        name="s_Frame_98_2"
+        figma_node_id="1:527"
+        
+    />
+    <style
+        name="s_0_mV_2"
+        figma_node_id="1:528"
+        text_font="poppins"
+    />
+    <style
+        name="s_Frame_169"
+        figma_node_id="1:529"
+        
+    />
+    <style
+        name="s_Result"
+        figma_node_id="1:530"
+        text_font="poppins"
+    />
+    <style
+        name="s_Frame_135_2"
+        figma_node_id="1:531"
+        
+    />
+    <style
+        name="s_Frame_109_2"
+        figma_node_id="1:532"
+        
+    />
+    <style
+        name="s_Frame_91_2"
+        figma_node_id="1:533"
+        
+    />
+    <style
+        name="s_Parameter_1"
+        figma_node_id="1:534"
+        text_font="poppins"
+    />
+    <style
+        name="s_Frame_94_2"
+        figma_node_id="1:535"
+        
+    />
+    <style
+        name="s_K_1"
+        figma_node_id="1:536"
+        text_font="poppins"
+    />
+    <style
+        name="s_Frame_98_3"
+        figma_node_id="1:537"
+        
+    />
+    <style
+        name="s_Na_1"
+        figma_node_id="1:538"
+        text_font="poppins"
+    />
+    <style
+        name="s_Frame_97_2"
+        figma_node_id="1:539"
+        
+    />
+    <style
+        name="s_Ca_1"
+        figma_node_id="1:540"
+        text_font="poppins"
+    />
+    <style
+        name="s_Frame_110_2"
+        figma_node_id="1:541"
+        
+    />
+    <style
+        name="s_Frame_93_2"
+        figma_node_id="1:542"
+        
+    />
+    <style
+        name="s_Results_2"
+        figma_node_id="1:543"
+        text_font="poppins"
+    />
+    <style
+        name="s_Frame_95_2"
+        figma_node_id="1:544"
+        
+    />
+    <style
+        name="s_0_mV_3"
+        figma_node_id="1:545"
+        text_font="poppins"
+    />
+    <style
+        name="s_Frame_99_1"
+        figma_node_id="1:546"
+        
+    />
+    <style
+        name="s_0_mV_4"
+        figma_node_id="1:547"
+        text_font="poppins"
+    />
+    <style
+        name="s_Frame_98_4"
+        figma_node_id="1:548"
+        
+    />
+    <style
+        name="s_0_mV_5"
+        figma_node_id="1:549"
+        text_font="poppins"
+    />
+    <style
+        name="s_Frame_34"
+        figma_node_id="1:550"
+        
+    />
+    <style
+        name="s_Frame_85"
+        figma_node_id="1:551"
+        
+    />
+    <style
+        name="s_Icons"
+        figma_node_id="1:552"
+        
+    />
+    <style
+        name="s_Icon"
+        figma_node_id="I1:552;1:307"
+        
+    />
+    <style
+        name="s_System_diagnostic"
+        figma_node_id="1:553"
+        text_font="poppins"
+    />
+    <style
+        name="s_Frame_167"
+        figma_node_id="1:554"
+        
+    />
+    <style
+        name="s_Buttons"
+        figma_node_id="1:555"
+        
+    />
+    <style
+        name="s_Re_try_Calibration"
+        figma_node_id="I1:555;199:89"
+        text_font="poppins"
+    />
+    <style
+        name="s_Buttons_1"
+        figma_node_id="1:556"
+        
+    />
+    <style
+        name="s_Re_try_Calibration_1"
+        figma_node_id="I1:556;199:89"
+        text_font="poppins"
+    />
+    <style
+        name="s_Buttons_2"
+        figma_node_id="1:557"
+        
+    />
+    <style
+        name="s_Re_try_Calibration_2"
+        figma_node_id="I1:557;199:89"
+        text_font="poppins"
+    />
+    <style
+        name="s_Buttons_3"
+        figma_node_id="1:558"
+        
+    />
+    <style
+        name="s_Re_try_Calibration_3"
+        figma_node_id="I1:558;199:89"
+        text_font="poppins"
+    />
+    <style
+        name="s_Buttons_4"
+        figma_node_id="1:559"
+        
+    />
+    <style
+        name="s_Re_try_Calibration_4"
+        figma_node_id="I1:559;199:89"
+        text_font="poppins"
+    />
+    <style
+        name="s_Frame_170"
+        figma_node_id="1:560"
+        
+    />
+    <style
+        name="s_Frame_155"
+        figma_node_id="1:561"
+        
+    />
+    <style
+        name="s_Diagnosis"
+        figma_node_id="1:562"
+        text_font="poppins"
+    />
+    <style
+        name="s_Frame_134"
+        figma_node_id="1:563"
+        
+    />
+    <style
+        name="s_Frame_109_3"
+        figma_node_id="1:564"
+        
+    />
+    <style
+        name="s_Frame_91_3"
+        figma_node_id="1:565"
+        
+    />
+    <style
+        name="s_Parameter_2"
+        figma_node_id="1:566"
+        text_font="poppins"
+    />
+    <style
+        name="s_Frame_94_3"
+        figma_node_id="1:567"
+        
+    />
+    <style
+        name="s_K_2"
+        figma_node_id="1:568"
+        text_font="poppins"
+    />
+    <style
+        name="s_Frame_97_3"
+        figma_node_id="1:569"
+        
+    />
+    <style
+        name="s_Na_2"
+        figma_node_id="1:570"
+        text_font="poppins"
+    />
+    <style
+        name="s_Frame_100"
+        figma_node_id="1:571"
+        
+    />
+    <style
+        name="s_Ca_2"
+        figma_node_id="1:572"
+        text_font="poppins"
+    />
+    <style
+        name="s_Frame_103"
+        figma_node_id="1:573"
+        
+    />
+    <style
+        name="s_pH"
+        figma_node_id="1:574"
+        text_font="poppins"
+    />
+    <style
+        name="s_Frame_106"
+        figma_node_id="1:575"
+        
+    />
+    <style
+        name="s_Cl"
+        figma_node_id="1:576"
+        text_font="poppins"
+    />
+    <style
+        name="s_Frame_110_3"
+        figma_node_id="1:577"
+        
+    />
+    <style
+        name="s_Frame_93_3"
+        figma_node_id="1:578"
+        
+    />
+    <style
+        name="s_Results_3"
+        figma_node_id="1:579"
+        text_font="poppins"
+    />
+    <style
+        name="s_Frame_95_3"
+        figma_node_id="1:580"
+        
+    />
+    <style
+        name="s_542_mV"
+        figma_node_id="1:581"
+        text_font="poppins"
+    />
+    <style
+        name="s_Frame_98_5"
+        figma_node_id="1:582"
+        
+    />
+    <style
+        name="s_346_mV"
+        figma_node_id="1:583"
+        text_font="poppins"
+    />
+    <style
+        name="s_Frame_101"
+        figma_node_id="1:584"
+        
+    />
+    <style
+        name="s_2_mV"
+        figma_node_id="1:585"
+        text_font="poppins"
+    />
+    <style
+        name="s_Frame_104"
+        figma_node_id="1:586"
+        
+    />
+    <style
+        name="s_1_mV"
+        figma_node_id="1:587"
+        text_font="poppins"
+    />
+    <style
+        name="s_Frame_107"
+        figma_node_id="1:588"
+        
+    />
+    <style
+        name="s_2_mV_1"
+        figma_node_id="1:589"
+        text_font="poppins"
+    />
+    <style
+        name="s_Frame_163"
+        figma_node_id="1:590"
+        
+    />
+    <style
+        name="s_Frame_162"
+        figma_node_id="1:591"
+        
+    />
+    <style
+        name="s_Frame_161"
+        figma_node_id="1:592"
+        
+    />
+    <style
+        name="s_Cal_1"
+        figma_node_id="1:593"
+        text_font="poppins"
+    />
+    <style
+        name="s_Frame_160"
+        figma_node_id="1:594"
+        
+    />
+    <style
+        name="s_Refresh_Values"
+        figma_node_id="1:595"
+        text_font="poppins"
+    />
+    <style
+        name="s_Icons_1"
+        figma_node_id="1:596"
+        
+    />
+    <style
+        name="s_Icon_1"
+        figma_node_id="I1:596;1:169"
+        
+    />
+    <style
+        name="s_Frame_136"
+        figma_node_id="1:597"
+        
+    />
+    <style
+        name="s_Frame_109_4"
+        figma_node_id="1:598"
+        
+    />
+    <style
+        name="s_Frame_91_4"
+        figma_node_id="1:599"
+        
+    />
+    <style
+        name="s_Parameter_3"
+        figma_node_id="1:600"
+        text_font="poppins"
+    />
+    <style
+        name="s_Frame_94_4"
+        figma_node_id="1:601"
+        
+    />
+    <style
+        name="s_K_3"
+        figma_node_id="1:602"
+        text_font="poppins"
+    />
+    <style
+        name="s_Frame_97_4"
+        figma_node_id="1:603"
+        
+    />
+    <style
+        name="s_Na_3"
+        figma_node_id="1:604"
+        text_font="poppins"
+    />
+    <style
+        name="s_Frame_100_1"
+        figma_node_id="1:605"
+        
+    />
+    <style
+        name="s_Ca_3"
+        figma_node_id="1:606"
+        text_font="poppins"
+    />
+    <style
+        name="s_Frame_110_4"
+        figma_node_id="1:607"
+        
+    />
+    <style
+        name="s_Frame_93_4"
+        figma_node_id="1:608"
+        
+    />
+    <style
+        name="s_Results_4"
+        figma_node_id="1:609"
+        text_font="poppins"
+    />
+    <style
+        name="s_Frame_95_4"
+        figma_node_id="1:610"
+        
+    />
+    <style
+        name="s_621_mV"
+        figma_node_id="1:611"
+        text_font="poppins"
+    />
+    <style
+        name="s_Frame_98_6"
+        figma_node_id="1:612"
+        
+    />
+    <style
+        name="s_357_mV"
+        figma_node_id="1:613"
+        text_font="poppins"
+    />
+    <style
+        name="s_Frame_101_1"
+        figma_node_id="1:614"
+        
+    />
+    <style
+        name="s_2_mV_2"
+        figma_node_id="1:615"
+        text_font="poppins"
+    />
+    <style
+        name="s_4_140_1_25_7_4_100_mmol_L"
+        figma_node_id="1:616"
+        text_font="poppins"
+    />
+    <style
+        name="s_Frame_166"
+        figma_node_id="1:617"
+        
+    />
+    <style
+        name="s_Frame_165"
+        figma_node_id="1:618"
+        
+    />
+    <style
+        name="s_Frame_164"
+        figma_node_id="1:619"
+        
+    />
+    <style
+        name="s_Cal_2"
+        figma_node_id="1:620"
+        text_font="poppins"
+    />
+    <style
+        name="s_Frame_160_1"
+        figma_node_id="1:621"
+        
+    />
+    <style
+        name="s_Refresh_Values_1"
+        figma_node_id="1:622"
+        text_font="poppins"
+    />
+    <style
+        name="s_Icons_2"
+        figma_node_id="1:623"
+        
+    />
+    <style
+        name="s_Icon_2"
+        figma_node_id="I1:623;1:169"
+        
+    />
+    <style
+        name="s_Frame_136_1"
+        figma_node_id="1:624"
+        
+    />
+    <style
+        name="s_Frame_109_5"
+        figma_node_id="1:625"
+        
+    />
+    <style
+        name="s_Frame_91_5"
+        figma_node_id="1:626"
+        
+    />
+    <style
+        name="s_Parameter_4"
+        figma_node_id="1:627"
+        text_font="poppins"
+    />
+    <style
+        name="s_Frame_94_5"
+        figma_node_id="1:628"
+        
+    />
+    <style
+        name="s_K_4"
+        figma_node_id="1:629"
+        text_font="poppins"
+    />
+    <style
+        name="s_Frame_97_5"
+        figma_node_id="1:630"
+        
+    />
+    <style
+        name="s_Na_4"
+        figma_node_id="1:631"
+        text_font="poppins"
+    />
+    <style
+        name="s_Frame_100_2"
+        figma_node_id="1:632"
+        
+    />
+    <style
+        name="s_Ca_4"
+        figma_node_id="1:633"
+        text_font="poppins"
+    />
+    <style
+        name="s_Frame_110_5"
+        figma_node_id="1:634"
+        
+    />
+    <style
+        name="s_Frame_93_5"
+        figma_node_id="1:635"
+        
+    />
+    <style
+        name="s_Results_5"
+        figma_node_id="1:636"
+        text_font="poppins"
+    />
+    <style
+        name="s_Frame_95_5"
+        figma_node_id="1:637"
+        
+    />
+    <style
+        name="s_542_mV_1"
+        figma_node_id="1:638"
+        text_font="poppins"
+    />
+    <style
+        name="s_Frame_98_7"
+        figma_node_id="1:639"
+        
+    />
+    <style
+        name="s_346_mV_1"
+        figma_node_id="1:640"
+        text_font="poppins"
+    />
+    <style
+        name="s_Frame_101_2"
+        figma_node_id="1:641"
+        
+    />
+    <style
+        name="s_2_mV_3"
+        figma_node_id="1:642"
+        text_font="poppins"
+    />
+    <style
+        name="s_8_110_2_5_7_70_mmol_L"
+        figma_node_id="1:643"
+        text_font="poppins"
+    />
+    <style
+        name="s_Frame_173"
+        figma_node_id="1:644"
+        
+    />
+    <style
+        name="s_Results_6"
+        figma_node_id="1:645"
+        text_font="poppins"
+    />
+    <style
+        name="s_Frame_172"
+        figma_node_id="1:646"
+        
+    />
+    <style
+        name="s_Frame_133"
+        figma_node_id="1:647"
+        
+    />
+    <style
+        name="s_Status"
+        figma_node_id="1:648"
+        text_font="poppins"
+    />
+    <style
+        name="s_18"
+        figma_node_id="1:649"
+        text_font="poppins"
+    />
+    <style
+        name="s_Frame_134_1"
+        figma_node_id="1:650"
+        
+    />
+    <style
+        name="s_System_is_in_idle_mode"
+        figma_node_id="1:651"
+        text_font="poppins"
+    />
+    <style
+        name="s_4"
+        figma_node_id="1:652"
+        text_font="poppins"
+    />
+</styles>
+
+<view>
+	<lv_canvas name="o_Setting_data"  x="-620"  y="-80"  width="800"  height="480"  >
+		<style name="s_Setting_data"/>
+		<lv_canvas name="o_Frame_171"  x="24"  y="292"  width="602"  height="140"  >
+			<style name="s_Frame_171"/>
+			<lv_canvas name="o_Frame_153"  x="0"  y="0"  width="190"  height="111"  >
+				<style name="s_Frame_153"/>
+				<lv_label name="o_Sensors"  x="0"  y="0"  width="190"  height="21"  text="Sensors"  >
+					<style name="s_Sensors"/>
+				</lv_label>
+				<lv_canvas name="o_Frame_135"  x="0"  y="29"  width="190"  height="82"  >
+					<style name="s_Frame_135"/>
+					<lv_canvas name="o_Frame_109"  x="0"  y="0"  width="80"  height="82"  >
+						<style name="s_Frame_109"/>
+						<lv_canvas name="o_Frame_91"  x="0"  y="0"  width="80"  height="24"  >
+							<style name="s_Frame_91"/>
+							<lv_label name="o_Name"  x="8"  y="3"  width="37"  height="18"  text="Name"  >
+								<style name="s_Name"/>
+							</lv_label>
+						</lv_canvas>
+						<lv_canvas name="o_Frame_94"  x="0"  y="25"  width="80"  height="28"  >
+							<style name="s_Frame_94"/>
+							<lv_label name="o_Liquid"  x="8"  y="4"  width="35"  height="18"  text="Liquid"  >
+								<style name="s_Liquid"/>
+							</lv_label>
+						</lv_canvas>
+						<lv_canvas name="o_Frame_97"  x="0"  y="54"  width="80"  height="28"  >
+							<style name="s_Frame_97"/>
+							<lv_label name="o_Probe"  x="8"  y="4"  width="35"  height="18"  text="Probe"  >
+								<style name="s_Probe"/>
+							</lv_label>
+						</lv_canvas>
+					</lv_canvas>
+					<lv_canvas name="o_Frame_110"  x="80"  y="0"  width="110"  height="82"  >
+						<style name="s_Frame_110"/>
+						<lv_canvas name="o_Frame_93"  x="0"  y="0"  width="110"  height="24"  >
+							<style name="s_Frame_93"/>
+							<lv_label name="o_Results"  x="8"  y="3"  width="43"  height="18"  text="Results"  >
+								<style name="s_Results"/>
+							</lv_label>
+						</lv_canvas>
+						<lv_canvas name="o_Frame_95"  x="0"  y="25"  width="110"  height="28"  >
+							<style name="s_Frame_95"/>
+							<lv_label name="o_1528_mV"  x="8"  y="4"  width="50"  height="18"  text="1528 mV"  >
+								<style name="s_1528_mV"/>
+							</lv_label>
+						</lv_canvas>
+						<lv_canvas name="o_Frame_98"  x="0"  y="54"  width="110"  height="28"  >
+							<style name="s_Frame_98"/>
+							<lv_label name="o_0"  x="8"  y="4"  width="8"  height="18"  text="0"  >
+								<style name="s_0"/>
+							</lv_label>
+						</lv_canvas>
+					</lv_canvas>
+				</lv_canvas>
+			</lv_canvas>
+			<lv_canvas name="o_Frame_168"  x="206"  y="0"  width="190"  height="140"  >
+				<style name="s_Frame_168"/>
+				<lv_label name="o_SMPL"  x="0"  y="0"  width="190"  height="21"  text="SMPL"  >
+					<style name="s_SMPL"/>
+				</lv_label>
+				<lv_canvas name="o_Frame_135_1"  x="0"  y="29"  width="190"  height="111"  >
+					<style name="s_Frame_135_1"/>
+					<lv_canvas name="o_Frame_109_1"  x="0"  y="0"  width="80"  height="111"  >
+						<style name="s_Frame_109_1"/>
+						<lv_canvas name="o_Frame_91_1"  x="0"  y="0"  width="80"  height="24"  >
+							<style name="s_Frame_91_1"/>
+							<lv_label name="o_Parameter"  x="8"  y="3"  width="64"  height="18"  text="Parameter"  >
+								<style name="s_Parameter"/>
+							</lv_label>
+						</lv_canvas>
+						<lv_canvas name="o_Frame_94_1"  x="0"  y="25"  width="80"  height="28"  >
+							<style name="s_Frame_94_1"/>
+							<lv_label name="o_K"  x="8"  y="4"  width="8"  height="18"  text="K"  >
+								<style name="s_K"/>
+							</lv_label>
+						</lv_canvas>
+						<lv_canvas name="o_Frame_98_1"  x="0"  y="54"  width="80"  height="28"  >
+							<style name="s_Frame_98_1"/>
+							<lv_label name="o_Na"  x="8"  y="4"  width="17"  height="18"  text="Na"  >
+								<style name="s_Na"/>
+							</lv_label>
+						</lv_canvas>
+						<lv_canvas name="o_Frame_97_1"  x="0"  y="83"  width="80"  height="28"  >
+							<style name="s_Frame_97_1"/>
+							<lv_label name="o_Ca"  x="8"  y="4"  width="18"  height="18"  text="Ca"  >
+								<style name="s_Ca"/>
+							</lv_label>
+						</lv_canvas>
+					</lv_canvas>
+					<lv_canvas name="o_Frame_110_1"  x="80"  y="0"  width="110"  height="111"  >
+						<style name="s_Frame_110_1"/>
+						<lv_canvas name="o_Frame_93_1"  x="0"  y="0"  width="110"  height="24"  >
+							<style name="s_Frame_93_1"/>
+							<lv_label name="o_Results_1"  x="8"  y="3"  width="43"  height="18"  text="Results"  >
+								<style name="s_Results_1"/>
+							</lv_label>
+						</lv_canvas>
+						<lv_canvas name="o_Frame_95_1"  x="0"  y="25"  width="110"  height="28"  >
+							<style name="s_Frame_95_1"/>
+							<lv_label name="o_0_mV"  x="8"  y="4"  width="32"  height="18"  text="0 mV"  >
+								<style name="s_0_mV"/>
+							</lv_label>
+						</lv_canvas>
+						<lv_canvas name="o_Frame_99"  x="0"  y="54"  width="110"  height="28"  >
+							<style name="s_Frame_99"/>
+							<lv_label name="o_0_mV_1"  x="8"  y="4"  width="32"  height="18"  text="0 mV"  >
+								<style name="s_0_mV_1"/>
+							</lv_label>
+						</lv_canvas>
+						<lv_canvas name="o_Frame_98_2"  x="0"  y="83"  width="110"  height="28"  >
+							<style name="s_Frame_98_2"/>
+							<lv_label name="o_0_mV_2"  x="8"  y="4"  width="32"  height="18"  text="0 mV"  >
+								<style name="s_0_mV_2"/>
+							</lv_label>
+						</lv_canvas>
+					</lv_canvas>
+				</lv_canvas>
+			</lv_canvas>
+			<lv_canvas name="o_Frame_169"  x="412"  y="0"  width="190"  height="140"  >
+				<style name="s_Frame_169"/>
+				<lv_label name="o_Result"  x="0"  y="0"  width="190"  height="21"  text="Result"  >
+					<style name="s_Result"/>
+				</lv_label>
+				<lv_canvas name="o_Frame_135_2"  x="0"  y="29"  width="190"  height="111"  >
+					<style name="s_Frame_135_2"/>
+					<lv_canvas name="o_Frame_109_2"  x="0"  y="0"  width="80"  height="111"  >
+						<style name="s_Frame_109_2"/>
+						<lv_canvas name="o_Frame_91_2"  x="0"  y="0"  width="80"  height="24"  >
+							<style name="s_Frame_91_2"/>
+							<lv_label name="o_Parameter_1"  x="8"  y="3"  width="64"  height="18"  text="Parameter"  >
+								<style name="s_Parameter_1"/>
+							</lv_label>
+						</lv_canvas>
+						<lv_canvas name="o_Frame_94_2"  x="0"  y="25"  width="80"  height="28"  >
+							<style name="s_Frame_94_2"/>
+							<lv_label name="o_K_1"  x="8"  y="4"  width="8"  height="18"  text="K"  >
+								<style name="s_K_1"/>
+							</lv_label>
+						</lv_canvas>
+						<lv_canvas name="o_Frame_98_3"  x="0"  y="54"  width="80"  height="28"  >
+							<style name="s_Frame_98_3"/>
+							<lv_label name="o_Na_1"  x="8"  y="4"  width="17"  height="18"  text="Na"  >
+								<style name="s_Na_1"/>
+							</lv_label>
+						</lv_canvas>
+						<lv_canvas name="o_Frame_97_2"  x="0"  y="83"  width="80"  height="28"  >
+							<style name="s_Frame_97_2"/>
+							<lv_label name="o_Ca_1"  x="8"  y="4"  width="18"  height="18"  text="Ca"  >
+								<style name="s_Ca_1"/>
+							</lv_label>
+						</lv_canvas>
+					</lv_canvas>
+					<lv_canvas name="o_Frame_110_2"  x="80"  y="0"  width="110"  height="111"  >
+						<style name="s_Frame_110_2"/>
+						<lv_canvas name="o_Frame_93_2"  x="0"  y="0"  width="110"  height="24"  >
+							<style name="s_Frame_93_2"/>
+							<lv_label name="o_Results_2"  x="8"  y="3"  width="43"  height="18"  text="Results"  >
+								<style name="s_Results_2"/>
+							</lv_label>
+						</lv_canvas>
+						<lv_canvas name="o_Frame_95_2"  x="0"  y="25"  width="110"  height="28"  >
+							<style name="s_Frame_95_2"/>
+							<lv_label name="o_0_mV_3"  x="8"  y="4"  width="32"  height="18"  text="0 mV"  >
+								<style name="s_0_mV_3"/>
+							</lv_label>
+						</lv_canvas>
+						<lv_canvas name="o_Frame_99_1"  x="0"  y="54"  width="110"  height="28"  >
+							<style name="s_Frame_99_1"/>
+							<lv_label name="o_0_mV_4"  x="8"  y="4"  width="32"  height="18"  text="0 mV"  >
+								<style name="s_0_mV_4"/>
+							</lv_label>
+						</lv_canvas>
+						<lv_canvas name="o_Frame_98_4"  x="0"  y="83"  width="110"  height="28"  >
+							<style name="s_Frame_98_4"/>
+							<lv_label name="o_0_mV_5"  x="8"  y="4"  width="32"  height="18"  text="0 mV"  >
+								<style name="s_0_mV_5"/>
+							</lv_label>
+						</lv_canvas>
+					</lv_canvas>
+				</lv_canvas>
+			</lv_canvas>
+		</lv_canvas>
+		<lv_canvas name="o_Frame_34"  x="0"  y="0"  width="800"  height="46"  >
+			<style name="s_Frame_34"/>
+			<lv_canvas name="o_Frame_85"  x="16"  y="7"  width="32"  height="32"  >
+				<style name="s_Frame_85"/>
+				<lv_button name="o_Icons"  x="6"  y="6"  width="20"  height="20"  >
+					<style name="s_Icons"/>
+					<lv_obj name="o_Icon"  x="12"  y="4"  width="12"  height="6"  >
+						<style name="s_Icon"/>
+					</lv_obj>
+				</lv_button>
+			</lv_canvas>
+			<lv_label name="o_System_diagnostic"  x="335"  y="13"  width="130"  height="21"  text="System diagnostic"  >
+				<style name="s_System_diagnostic"/>
+			</lv_label>
+		</lv_canvas>
+		<lv_canvas name="o_Frame_167"  x="0"  y="414"  width="800"  height="66"  >
+			<style name="s_Frame_167"/>
+			<lv_button name="o_Buttons"  >
+				<style name="s_Buttons"/>
+				<lv_label name="o_Re_try_Calibration"  >
+					<style name="s_Re_try_Calibration"/>
+				</lv_label>
+			</lv_button>
+			<lv_button name="o_Buttons_1"  >
+				<style name="s_Buttons_1"/>
+				<lv_label name="o_Re_try_Calibration_1"  >
+					<style name="s_Re_try_Calibration_1"/>
+				</lv_label>
+			</lv_button>
+			<lv_button name="o_Buttons_2"  >
+				<style name="s_Buttons_2"/>
+				<lv_label name="o_Re_try_Calibration_2"  >
+					<style name="s_Re_try_Calibration_2"/>
+				</lv_label>
+			</lv_button>
+			<lv_button name="o_Buttons_3"  >
+				<style name="s_Buttons_3"/>
+				<lv_label name="o_Re_try_Calibration_3"  >
+					<style name="s_Re_try_Calibration_3"/>
+				</lv_label>
+			</lv_button>
+			<lv_button name="o_Buttons_4"  x="725"  y="16"  width="51"  height="34"  >
+				<style name="s_Buttons_4"/>
+				<lv_label name="o_Re_try_Calibration_4"  x="12"  y="8"  width="27"  height="18"  text="Buzz"  >
+					<style name="s_Re_try_Calibration_4"/>
+				</lv_label>
+			</lv_button>
+		</lv_canvas>
+		<lv_canvas name="o_Frame_170"  x="24"  y="70"  width="602"  height="198"  >
+			<style name="s_Frame_170"/>
+			<lv_canvas name="o_Frame_155"  x="0"  y="0"  width="190"  height="198"  >
+				<style name="s_Frame_155"/>
+				<lv_label name="o_Diagnosis"  x="0"  y="0"  width="190"  height="21"  text="Diagnosis"  >
+					<style name="s_Diagnosis"/>
+				</lv_label>
+				<lv_canvas name="o_Frame_134"  x="0"  y="29"  width="190"  height="169"  >
+					<style name="s_Frame_134"/>
+					<lv_canvas name="o_Frame_109_3"  x="0"  y="0"  width="80"  height="169"  >
+						<style name="s_Frame_109_3"/>
+						<lv_canvas name="o_Frame_91_3"  x="0"  y="0"  width="80"  height="24"  >
+							<style name="s_Frame_91_3"/>
+							<lv_label name="o_Parameter_2"  x="8"  y="3"  width="64"  height="18"  text="Parameter"  >
+								<style name="s_Parameter_2"/>
+							</lv_label>
+						</lv_canvas>
+						<lv_canvas name="o_Frame_94_3"  x="0"  y="25"  width="80"  height="28"  >
+							<style name="s_Frame_94_3"/>
+							<lv_label name="o_K_2"  x="8"  y="4"  width="8"  height="18"  text="K"  >
+								<style name="s_K_2"/>
+							</lv_label>
+						</lv_canvas>
+						<lv_canvas name="o_Frame_97_3"  x="0"  y="54"  width="80"  height="28"  >
+							<style name="s_Frame_97_3"/>
+							<lv_label name="o_Na_2"  x="8"  y="4"  width="17"  height="18"  text="Na"  >
+								<style name="s_Na_2"/>
+							</lv_label>
+						</lv_canvas>
+						<lv_canvas name="o_Frame_100"  x="0"  y="83"  width="80"  height="28"  >
+							<style name="s_Frame_100"/>
+							<lv_label name="o_Ca_2"  x="8"  y="4"  width="18"  height="18"  text="Ca"  >
+								<style name="s_Ca_2"/>
+							</lv_label>
+						</lv_canvas>
+						<lv_canvas name="o_Frame_103"  x="0"  y="112"  width="80"  height="28"  >
+							<style name="s_Frame_103"/>
+							<lv_label name="o_pH"  x="8"  y="4"  width="17"  height="18"  text="pH"  >
+								<style name="s_pH"/>
+							</lv_label>
+						</lv_canvas>
+						<lv_canvas name="o_Frame_106"  x="0"  y="141"  width="80"  height="28"  >
+							<style name="s_Frame_106"/>
+							<lv_label name="o_Cl"  x="8"  y="4"  width="13"  height="18"  text="Cl"  >
+								<style name="s_Cl"/>
+							</lv_label>
+						</lv_canvas>
+					</lv_canvas>
+					<lv_canvas name="o_Frame_110_3"  x="80"  y="0"  width="110"  height="169"  >
+						<style name="s_Frame_110_3"/>
+						<lv_canvas name="o_Frame_93_3"  x="0"  y="0"  width="110"  height="24"  >
+							<style name="s_Frame_93_3"/>
+							<lv_label name="o_Results_3"  x="8"  y="3"  width="43"  height="18"  text="Results"  >
+								<style name="s_Results_3"/>
+							</lv_label>
+						</lv_canvas>
+						<lv_canvas name="o_Frame_95_3"  x="0"  y="25"  width="110"  height="28"  >
+							<style name="s_Frame_95_3"/>
+							<lv_label name="o_542_mV"  x="8"  y="4"  width="46"  height="18"  text="542 mV"  >
+								<style name="s_542_mV"/>
+							</lv_label>
+						</lv_canvas>
+						<lv_canvas name="o_Frame_98_5"  x="0"  y="54"  width="110"  height="28"  >
+							<style name="s_Frame_98_5"/>
+							<lv_label name="o_346_mV"  x="8"  y="4"  width="46"  height="18"  text="346 mV"  >
+								<style name="s_346_mV"/>
+							</lv_label>
+						</lv_canvas>
+						<lv_canvas name="o_Frame_101"  x="0"  y="83"  width="110"  height="28"  >
+							<style name="s_Frame_101"/>
+							<lv_label name="o_2_mV"  x="8"  y="4"  width="31"  height="18"  text="2 mV"  >
+								<style name="s_2_mV"/>
+							</lv_label>
+						</lv_canvas>
+						<lv_canvas name="o_Frame_104"  x="0"  y="112"  width="110"  height="28"  >
+							<style name="s_Frame_104"/>
+							<lv_label name="o_1_mV"  x="8"  y="4"  width="28"  height="18"  text="1 mV"  >
+								<style name="s_1_mV"/>
+							</lv_label>
+						</lv_canvas>
+						<lv_canvas name="o_Frame_107"  x="0"  y="141"  width="110"  height="28"  >
+							<style name="s_Frame_107"/>
+							<lv_label name="o_2_mV_1"  x="8"  y="4"  width="31"  height="18"  text="2 mV"  >
+								<style name="s_2_mV_1"/>
+							</lv_label>
+						</lv_canvas>
+					</lv_canvas>
+				</lv_canvas>
+			</lv_canvas>
+			<lv_canvas name="o_Frame_163"  x="206"  y="0"  width="190"  height="162"  >
+				<style name="s_Frame_163"/>
+				<lv_canvas name="o_Frame_162"  x="0"  y="0"  width="190"  height="140"  >
+					<style name="s_Frame_162"/>
+					<lv_canvas name="o_Frame_161"  x="0"  y="0"  width="190"  height="21"  >
+						<style name="s_Frame_161"/>
+						<lv_label name="o_Cal_1"  x="0"  y="0"  width="33"  height="21"  text="Cal 1"  >
+							<style name="s_Cal_1"/>
+						</lv_label>
+						<lv_canvas name="o_Frame_160"  x="81"  y="2"  width="109"  height="18"  >
+							<style name="s_Frame_160"/>
+							<lv_label name="o_Refresh_Values"  x="0"  y="0"  width="89"  height="18"  text="Refresh Values"  >
+								<style name="s_Refresh_Values"/>
+							</lv_label>
+							<lv_button name="o_Icons_1"  x="93"  y="1"  width="16"  height="16"  >
+								<style name="s_Icons_1"/>
+								<lv_obj name="o_Icon_1"  x="3"  y="3"  width="11"  height="11"  >
+									<style name="s_Icon_1"/>
+								</lv_obj>
+							</lv_button>
+						</lv_canvas>
+					</lv_canvas>
+					<lv_canvas name="o_Frame_136"  x="0"  y="29"  width="190"  height="111"  >
+						<style name="s_Frame_136"/>
+						<lv_canvas name="o_Frame_109_4"  x="0"  y="0"  width="80"  height="111"  >
+							<style name="s_Frame_109_4"/>
+							<lv_canvas name="o_Frame_91_4"  x="0"  y="0"  width="80"  height="24"  >
+								<style name="s_Frame_91_4"/>
+								<lv_label name="o_Parameter_3"  x="8"  y="3"  width="64"  height="18"  text="Parameter"  >
+									<style name="s_Parameter_3"/>
+								</lv_label>
+							</lv_canvas>
+							<lv_canvas name="o_Frame_94_4"  x="0"  y="25"  width="80"  height="28"  >
+								<style name="s_Frame_94_4"/>
+								<lv_label name="o_K_3"  x="8"  y="4"  width="8"  height="18"  text="K"  >
+									<style name="s_K_3"/>
+								</lv_label>
+							</lv_canvas>
+							<lv_canvas name="o_Frame_97_4"  x="0"  y="54"  width="80"  height="28"  >
+								<style name="s_Frame_97_4"/>
+								<lv_label name="o_Na_3"  x="8"  y="4"  width="17"  height="18"  text="Na"  >
+									<style name="s_Na_3"/>
+								</lv_label>
+							</lv_canvas>
+							<lv_canvas name="o_Frame_100_1"  x="0"  y="83"  width="80"  height="28"  >
+								<style name="s_Frame_100_1"/>
+								<lv_label name="o_Ca_3"  x="8"  y="4"  width="18"  height="18"  text="Ca"  >
+									<style name="s_Ca_3"/>
+								</lv_label>
+							</lv_canvas>
+						</lv_canvas>
+						<lv_canvas name="o_Frame_110_4"  x="80"  y="0"  width="110"  height="111"  >
+							<style name="s_Frame_110_4"/>
+							<lv_canvas name="o_Frame_93_4"  x="0"  y="0"  width="110"  height="24"  >
+								<style name="s_Frame_93_4"/>
+								<lv_label name="o_Results_4"  x="8"  y="3"  width="43"  height="18"  text="Results"  >
+									<style name="s_Results_4"/>
+								</lv_label>
+							</lv_canvas>
+							<lv_canvas name="o_Frame_95_4"  x="0"  y="25"  width="110"  height="28"  >
+								<style name="s_Frame_95_4"/>
+								<lv_label name="o_621_mV"  x="8"  y="4"  width="43"  height="18"  text="621 mV"  >
+									<style name="s_621_mV"/>
+								</lv_label>
+							</lv_canvas>
+							<lv_canvas name="o_Frame_98_6"  x="0"  y="54"  width="110"  height="28"  >
+								<style name="s_Frame_98_6"/>
+								<lv_label name="o_357_mV"  x="8"  y="4"  width="45"  height="18"  text="357 mV"  >
+									<style name="s_357_mV"/>
+								</lv_label>
+							</lv_canvas>
+							<lv_canvas name="o_Frame_101_1"  x="0"  y="83"  width="110"  height="28"  >
+								<style name="s_Frame_101_1"/>
+								<lv_label name="o_2_mV_2"  x="8"  y="4"  width="31"  height="18"  text="2 mV"  >
+									<style name="s_2_mV_2"/>
+								</lv_label>
+							</lv_canvas>
+						</lv_canvas>
+					</lv_canvas>
+				</lv_canvas>
+				<lv_label name="o_4_140_1_25_7_4_100_mmol_L"  x="0"  y="144"  width="190"  height="18"  text="4, 140, 1.25, 7.4, 100 mmol/L"  >
+					<style name="s_4_140_1_25_7_4_100_mmol_L"/>
+				</lv_label>
+			</lv_canvas>
+			<lv_canvas name="o_Frame_166"  x="412"  y="0"  width="190"  height="165"  >
+				<style name="s_Frame_166"/>
+				<lv_canvas name="o_Frame_165"  x="0"  y="0"  width="190"  height="140"  >
+					<style name="s_Frame_165"/>
+					<lv_canvas name="o_Frame_164"  x="0"  y="0"  width="190"  height="21"  >
+						<style name="s_Frame_164"/>
+						<lv_label name="o_Cal_2"  x="0"  y="0"  width="36"  height="21"  text="Cal 2"  >
+							<style name="s_Cal_2"/>
+						</lv_label>
+						<lv_canvas name="o_Frame_160_1"  x="81"  y="2"  width="109"  height="18"  >
+							<style name="s_Frame_160_1"/>
+							<lv_label name="o_Refresh_Values_1"  x="0"  y="0"  width="89"  height="18"  text="Refresh Values"  >
+								<style name="s_Refresh_Values_1"/>
+							</lv_label>
+							<lv_button name="o_Icons_2"  x="93"  y="1"  width="16"  height="16"  >
+								<style name="s_Icons_2"/>
+								<lv_obj name="o_Icon_2"  x="3"  y="3"  width="11"  height="11"  >
+									<style name="s_Icon_2"/>
+								</lv_obj>
+							</lv_button>
+						</lv_canvas>
+					</lv_canvas>
+					<lv_canvas name="o_Frame_136_1"  x="0"  y="29"  width="190"  height="111"  >
+						<style name="s_Frame_136_1"/>
+						<lv_canvas name="o_Frame_109_5"  x="0"  y="0"  width="80"  height="111"  >
+							<style name="s_Frame_109_5"/>
+							<lv_canvas name="o_Frame_91_5"  x="0"  y="0"  width="80"  height="24"  >
+								<style name="s_Frame_91_5"/>
+								<lv_label name="o_Parameter_4"  x="8"  y="3"  width="64"  height="18"  text="Parameter"  >
+									<style name="s_Parameter_4"/>
+								</lv_label>
+							</lv_canvas>
+							<lv_canvas name="o_Frame_94_5"  x="0"  y="25"  width="80"  height="28"  >
+								<style name="s_Frame_94_5"/>
+								<lv_label name="o_K_4"  x="8"  y="4"  width="8"  height="18"  text="K"  >
+									<style name="s_K_4"/>
+								</lv_label>
+							</lv_canvas>
+							<lv_canvas name="o_Frame_97_5"  x="0"  y="54"  width="80"  height="28"  >
+								<style name="s_Frame_97_5"/>
+								<lv_label name="o_Na_4"  x="8"  y="4"  width="17"  height="18"  text="Na"  >
+									<style name="s_Na_4"/>
+								</lv_label>
+							</lv_canvas>
+							<lv_canvas name="o_Frame_100_2"  x="0"  y="83"  width="80"  height="28"  >
+								<style name="s_Frame_100_2"/>
+								<lv_label name="o_Ca_4"  x="8"  y="4"  width="18"  height="18"  text="Ca"  >
+									<style name="s_Ca_4"/>
+								</lv_label>
+							</lv_canvas>
+						</lv_canvas>
+						<lv_canvas name="o_Frame_110_5"  x="80"  y="0"  width="110"  height="111"  >
+							<style name="s_Frame_110_5"/>
+							<lv_canvas name="o_Frame_93_5"  x="0"  y="0"  width="110"  height="24"  >
+								<style name="s_Frame_93_5"/>
+								<lv_label name="o_Results_5"  x="8"  y="3"  width="43"  height="18"  text="Results"  >
+									<style name="s_Results_5"/>
+								</lv_label>
+							</lv_canvas>
+							<lv_canvas name="o_Frame_95_5"  x="0"  y="25"  width="110"  height="28"  >
+								<style name="s_Frame_95_5"/>
+								<lv_label name="o_542_mV_1"  x="8"  y="4"  width="46"  height="18"  text="542 mV"  >
+									<style name="s_542_mV_1"/>
+								</lv_label>
+							</lv_canvas>
+							<lv_canvas name="o_Frame_98_7"  x="0"  y="54"  width="110"  height="28"  >
+								<style name="s_Frame_98_7"/>
+								<lv_label name="o_346_mV_1"  x="8"  y="4"  width="46"  height="18"  text="346 mV"  >
+									<style name="s_346_mV_1"/>
+								</lv_label>
+							</lv_canvas>
+							<lv_canvas name="o_Frame_101_2"  x="0"  y="83"  width="110"  height="28"  >
+								<style name="s_Frame_101_2"/>
+								<lv_label name="o_2_mV_3"  x="8"  y="4"  width="31"  height="18"  text="2 mV"  >
+									<style name="s_2_mV_3"/>
+								</lv_label>
+							</lv_canvas>
+						</lv_canvas>
+					</lv_canvas>
+				</lv_canvas>
+				<lv_label name="o_8_110_2_5_7_70_mmol_L"  x="0"  y="144"  width="190"  height="21"  text="8, 110, 2.5, 7, 70 mmol/L"  >
+					<style name="s_8_110_2_5_7_70_mmol_L"/>
+				</lv_label>
+			</lv_canvas>
+		</lv_canvas>
+		<lv_canvas name="o_Frame_173"  x="642"  y="70"  width="134"  height="181"  >
+			<style name="s_Frame_173"/>
+			<lv_label name="o_Results_6"  x="0"  y="0"  width="134"  height="21"  text="Results"  >
+				<style name="s_Results_6"/>
+			</lv_label>
+			<lv_canvas name="o_Frame_172"  x="0"  y="29"  width="134"  height="152"  >
+				<style name="s_Frame_172"/>
+				<lv_canvas name="o_Frame_133"  x="12"  y="12"  width="38"  height="47"  >
+					<style name="s_Frame_133"/>
+					<lv_label name="o_Status"  x="0"  y="0"  width="38"  height="18"  text="Status"  >
+						<style name="s_Status"/>
+					</lv_label>
+					<lv_label name="o_18"  x="0"  y="20"  width="18"  height="27"  text="18"  >
+						<style name="s_18"/>
+					</lv_label>
+				</lv_canvas>
+				<lv_canvas name="o_Frame_134_1"  x="12"  y="75"  width="96"  height="65"  >
+					<style name="s_Frame_134_1"/>
+					<lv_label name="o_System_is_in_idle_mode"  x="0"  y="0"  width="96"  height="36"  text="System is in idle
+mode"  >
+						<style name="s_System_is_in_idle_mode"/>
+					</lv_label>
+					<lv_label name="o_4"  x="0"  y="38"  width="12"  height="27"  text="4"  >
+						<style name="s_4"/>
+					</lv_label>
+				</lv_canvas>
+			</lv_canvas>
+		</lv_canvas>
+	</lv_canvas>
+</view>
+
+</screen>
